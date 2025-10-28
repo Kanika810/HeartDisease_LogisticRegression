@@ -33,11 +33,7 @@ st.set_page_config(
 )
 
 # Page setup
-st.markdown("<h1 class='main-title'>❤️ Heart Disease Predictor</h1>", unsafe_allow_html=True)
-st.markdown("<p class='sub-title'>Enter patient details to visualize risk and prediction insights</p>", unsafe_allow_html=True)
-st.markdown("---")
 
-# App title
 st.markdown("<h1 style='text-align: center; color: #e63946;'>Heart Disease Prediction App</h1>", unsafe_allow_html=True)
 st.write("### Enter the patient's details below:")
 
